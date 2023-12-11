@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\japanese_crossword-master\bin\Debug\japanese_hogus.exe.config
+C:\Users\User\Desktop\japanese_crossword-master\bin\Debug\japanese_hogus.exe
+C:\Users\User\Desktop\japanese_crossword-master\bin\Debug\japanese_hogus.pdb
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.table.resources
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.Properties.Resources.resources
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.csproj.GenerateResource.cache
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.exe
+C:\Users\User\Desktop\japanese_crossword-master\obj\Debug\japanese_hogus.pdb
